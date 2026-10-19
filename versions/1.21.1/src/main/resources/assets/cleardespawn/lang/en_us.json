@@ -1,0 +1,10 @@
+{
+  "cleardespawn.configuration.title": "ClearDespawn",
+  "cleardespawn.configuration.section.cleardespawn.client.toml": "Client",
+  "cleardespawn.configuration.section.cleardespawn.client.toml.title": "Client",
+  "cleardespawn.configuration.general": "General",
+  "cleardespawn.configuration.flashStartTime": "Blinking start time (seconds)",
+  "cleardespawn.configuration.flashStartTime.tooltip": "How many seconds before an item despawns it starts blinking",
+  "cleardespawn.configuration.urgentFlash": "Faster blinking near the end",
+  "cleardespawn.configuration.urgentFlash.tooltip": "Items blink faster the closer they get to despawning"
+}

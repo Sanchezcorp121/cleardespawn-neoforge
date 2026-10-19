@@ -1,0 +1,27 @@
+license="${mod_license}"
+issueTrackerURL="https://github.com/Sanchezcorp121/cleardespawn-neoforge/issues"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+displayURL="https://github.com/Sanchezcorp121/cleardespawn-neoforge"
+logoFile="cleardespawn.png"
+credits="Unofficial NeoForge port of ClearDespawn by StrikerRocker. Thanks to IllusiveC4 for initially making the mod."
+description='''
+Flashes the item on ground after a certain amount of time to indicate its going to despawn
+'''
+
+[[dependencies.${mod_id}]]
+    modId="neoforge"
+    type="required"
+    versionRange="[${neo_version},)"
+    ordering="NONE"
+    side="CLIENT"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    type="required"
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="CLIENT"
