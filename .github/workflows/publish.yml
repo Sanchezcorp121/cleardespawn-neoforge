@@ -40,9 +40,9 @@ jobs:
       - name: Publish ${{ matrix.mc }}
         uses: Kira-NT/mc-publish@v3.3
         with:
-          modrinth-id: REPLACE_MODRINTH_ID
+          modrinth-id: nN3dhA3S
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          curseforge-id: REPLACE_CURSEFORGE_ID
+          curseforge-id: 1754915
           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
           github-tag: ${{ github.ref_name }}
