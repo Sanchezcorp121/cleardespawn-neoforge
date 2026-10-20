@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.0 for 1.20.4
+- Added a build for Minecraft 1.20.4. Settings are in the config file (no in-game config screen on this version).
+
 ## 1.0.0 for 1.21
 - Added a build for Minecraft 1.21. No other changes.
 
