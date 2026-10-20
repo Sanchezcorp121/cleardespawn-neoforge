@@ -8,8 +8,6 @@ import net.minecraft.client.renderer.entity.state.ItemEntityRenderState;
 import net.minecraft.client.renderer.state.CameraRenderState;
 import net.minecraft.world.entity.item.ItemEntity;
 
-// Newer versions render from a state object, so the despawn check runs while the state is filled in
-// and the item is skipped when the state is submitted. Same timing rules as before.
 public class RenderItemEntityExtended extends ItemEntityRenderer {
     public RenderItemEntityExtended(EntityRendererProvider.Context context) {
         super(context);
