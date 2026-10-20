@@ -9,7 +9,7 @@ displayURL="https://github.com/Sanchezcorp121/cleardespawn-neoforge"
 iconFile="cleardespawn.png"
 credits="Unofficial NeoForge port of ClearDespawn by StrikerRocker. Thanks to IllusiveC4 for initially making the mod."
 description='''
-Flashes the item on ground after a certain amount of time to indicate its going to despawn
+Makes dropped items blink when they're about to despawn, and blink faster as time runs out.
 '''
 
 [[dependencies.${mod_id}]]

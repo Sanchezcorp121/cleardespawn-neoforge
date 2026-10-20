@@ -21,6 +21,9 @@ so existing configs keep working.
 | 26.2 | 26.2.0.93 or newer | 25 |
 | 26.3 | 26.3.0.94 or newer | 25 |
 
+## Install
+Put the jar for your Minecraft version in the `mods` folder of a NeoForge instance. Servers do not need it.
+
 ## Build
 Each Minecraft version is its own Gradle project under `versions/`.
 
