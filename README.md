@@ -15,6 +15,7 @@ so existing configs keep working.
 
 | Minecraft | NeoForge | Java |
 |---|---|---|
+| 1.21 | 21.0.167 or newer | 21 |
 | 1.21.1 | 21.1.252 or newer | 21 |
 | 1.21.4 | 21.4.161 or newer | 21 |
 | 1.21.5 | 21.5.101 or newer | 21 |
